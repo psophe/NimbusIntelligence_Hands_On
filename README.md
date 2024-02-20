@@ -7,7 +7,7 @@ The files you see within these repository are nothing without the associated sid
 
 - [**0. Introduction.sql**](https://github.com/psophe/NimbusIntelligence_Hands_On/blob/main/nimbus_hands-on-main/0.%20Introduction.sql)
 
-- [**1. financial_governance.sql**](https://github.com/psophe/NimbusIntelligence_Hands_On/blob/main/nimbus_hands-on-main/1.%20Financial_governance.sql)
+- [**1. Financial_governance.sql**](https://github.com/psophe/NimbusIntelligence_Hands_On/blob/main/nimbus_hands-on-main/1.%20Financial_governance.sql)
   
 - [**2. Transformation.sql**](https://github.com/psophe/NimbusIntelligence_Hands_On/blob/main/nimbus_hands-on-main/2.%20Transformation.sql)
 
