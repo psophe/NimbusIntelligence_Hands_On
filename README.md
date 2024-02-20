@@ -1,5 +1,5 @@
 # Nimbus Intelligence Hands On
-![Screenshot](https://user-images.githubusercontent.com/68337675/226066063-1b13428c-6a19-46d4-ae3f-32e328025167.png)
+![Screenshot](https://github.com/psophe/NimbusIntelligence_Hands_On/blob/main/nimbus_hands-on-main/Nimbus%20Intelligence%20-%20Hands%20On%20Tasty%20Bytes.png)
 
 ## Overview
 
