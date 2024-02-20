@@ -1,1 +1,1 @@
-# NimbusIntelligence_Hands_On
+# Nimbus Intelligence Hands On
