@@ -14,7 +14,7 @@ The files you see within these repository are nothing without the associated sid
 
 - [**geospatial.sql**](https://github.com/psophe/NimbusIntelligence_Hands_On/blob/main/nimbus_hands-on-main/6.%20Geospatial.sql)
 
-- [**semi_structured_data.sql**](https://github.com/psophe/NimbusIntelligence_Hands_On/blob/main/nimbus_hands-on-main/3.%20Semi_structured_data.sql
+- [**semi_structured_data.sql**](https://github.com/psophe/NimbusIntelligence_Hands_On/blob/main/nimbus_hands-on-main/3.%20Semi_structured_data.sql)
 
 - [**transformation.sql**](https://github.com/psophe/NimbusIntelligence_Hands_On/blob/main/nimbus_hands-on-main/2.%20Transformation.sql)
 
